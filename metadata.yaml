@@ -1,5 +1,5 @@
 _repo: Arabia-The-Cradle-of-Islam-Studies-in-the-Geography-People-and-Politics-of-the-Peninsula-with__63928
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Dennis, James S. (James Shepard)
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '52669'
     url: http://www.gutenberg.org/2009/agents/52669
+covers:
+- cover_type: archival
+  image_path: 63928-h/images/cover.jpg
 creator:
   author:
     agent_name: Zwemer, Samuel Marinus
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34415
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63928#Arabia-The-Cradle-of-Islam-Studies-in-the-Geography-People-and-Politics-of-the-Peninsula-with_
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
